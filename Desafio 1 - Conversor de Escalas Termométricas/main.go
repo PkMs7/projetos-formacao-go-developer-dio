@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	var valorEmKelvin float64 = 373.2
+	var valorEmKelvinParaConversaoEmCelcius float64 = 373.2
 
-	fmt.Printf("O valor convertido para Kelvin é: %.2f C°", escalas.ConversaoKelvinParaCelcius(valorEmKelvin))
+	fmt.Printf("O valor convertido para Kelvin é: %.2f C°", escalas.ConversaoKelvinParaCelcius(valorEmKelvinParaConversaoEmCelcius))
 
 }
