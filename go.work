@@ -1,5 +1,9 @@
 go 1.21.5
 
 use ./Desafio1
+
 use ./Desafio2
+
 use ./Desafio3
+
+use ./Desafio4
