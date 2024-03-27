@@ -1,7 +1,7 @@
 package main
 
 import (
-	escalas "escalasTermometricas/EscalasTermometricas"
+	escalas "escalasTermometricas/escalasTermometricas"
 	"fmt"
 )
 
