@@ -10,4 +10,4 @@ Todos os projetos propostos pela Formação Go Developer - DIO
 
 - [Projeto 4: Api de Cadastro de Clientes](https://github.com/PkMs7/projetos-formacao-go-developer-dio/tree/main/Desafio4)
 
-- [Projeto 5: Api de Cadastro de Clientes](https://github.com/PkMs7/projetos-formacao-go-developer-dio/tree/main/Desafio5)
+- [Projeto 5: Calculadora e Testes](https://github.com/PkMs7/projetos-formacao-go-developer-dio/tree/main/Desafio5)
